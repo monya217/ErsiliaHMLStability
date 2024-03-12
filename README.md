@@ -1,5 +1,5 @@
 ## Overview
-This repository contains code and analysis of model EOS30GR provided by Ersilia for the Outreachy 2024 Summer Internship Contribution Period. The model can be used to predict the probability that a molecule is a hERG blocker. The first step in the analysis was to check for model bias. I used a dataset of 1000 compounds from the [ChEMBL](https://www.ebi.ac.uk/chembl/) database and predicted the outcomes by fetching and running the model using Ersilia. Then I used data visualizations to look for probability distribution and other trends.
+This repository contains code and analysis of model [EOS30GR](https://github.com/ersilia-os/eos30gr) provided by Ersilia for the Outreachy 2024 Summer Internship Contribution Period. The model can be used to predict the probability that a molecule is a hERG blocker. The first step in the analysis was to check for model bias. I used a dataset of 1000 compounds from the [ChEMBL](https://www.ebi.ac.uk/chembl/) database and predicted the outcomes by fetching and running the model using Ersilia. Then I used data visualizations to look for probability distribution and other trends.
 ## Repository organization
 The repository is organised in folders:
 
@@ -21,5 +21,6 @@ ersilia -v api run -i data/input.csv -o data/output.json
 ```
 
 3. Compare and explore with results in the repository.
+
 
 
