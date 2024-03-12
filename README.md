@@ -12,11 +12,10 @@ The repository is organised in folders:
 ## Steps to Reproduce the repository 
 1. Download Ersilia by following these instructions.
 2. Run the model on your system using these instructions or simply use these commands:
-'''
+   
+''' bash
 ersilia -v fetch eos30gr 
-
 ersilia serve eos30gr 
-
 ersilia -v api run -i data/input.csv -o data/output.json
 
 '''
