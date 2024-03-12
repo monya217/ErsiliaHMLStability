@@ -15,12 +15,9 @@ The repository is organised in folders:
 
 ersilia -v fetch eos30gr 
 
-
 ersilia serve eos30gr 
 
-
 ersilia -v api run -i data/input.csv -o data/output.json
-
 
 3. Compare and explore with results in the repository.
 
