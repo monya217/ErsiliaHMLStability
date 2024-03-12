@@ -10,11 +10,11 @@ The repository is organised in folders:
 * 'requirements.txt' lists all the required packages to run the notebooks in this repository. If possible I also specify the version of the package I am using.
 
 ## Steps to Reproduce the repository 
-1.Download Ersilia by following these instructions.
-2.Run the model on your system using these instructions or simply use these commands: 
+1. Download Ersilia by following these instructions.
+2. Run the model on your system using these instructions or simply use these commands: 
 ''' ersilia -v fetch eos30gr 
 ersilia serve eos30gr 
 ersilia -v api run -i data/input.csv -o data/output.json'''
-3.Compare and explore with results in the repository.
+3. Compare and explore with results in the repository.
 
 
