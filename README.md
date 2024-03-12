@@ -10,8 +10,8 @@ The repository is organised in folders:
 * 'requirements.txt' lists all the required packages to run the notebooks in this repository. If possible I also specify the version of the package I am using.
 
 ## Steps to Reproduce the repository 
-1. Download Ersilia by following these instructions.
-2. Run the model on your system using these instructions or simply use these commands:
+1. Download Ersilia by following these [instructions](https://ersilia.gitbook.io/ersilia-book/ersilia-model-hub/installation).
+2. Run the model on your system using these [instructions](https://ersilia.gitbook.io/ersilia-book/ersilia-model-hub/antibiotic-activity-prediction) or simply use these commands:
    
 ``` 
 ersilia -v fetch eos30gr 
