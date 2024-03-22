@@ -2,7 +2,9 @@ This is the description of all the data files used.
 <br>
 Task 1-
 1. input.csv - .csv file which was used as input for ersilia containing smiles of the compounds taken from the ChEMBL dataset.
+<br>
 2.output.json - Outputs produced by ersilia on dataset taken from the ChEMBL dataset.
+<br>
 Task 2-
 3. testset.txt - Testing dataset used by authors.
 4. input_data.csv - .csv file made from testing dataset consisting of smiles which was used as input for ersilia.
